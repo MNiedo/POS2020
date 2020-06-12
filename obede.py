@@ -51,7 +51,6 @@ else:
 # Czas na wyświetlanie danych
 
 obroty = connection.query(obd.commands.RPM) # Zwraca obroty z obd
-testtest 
 
 
 
